@@ -1,0 +1,23 @@
+body {
+    background-color: lightgrey;
+}
+h1, p {
+    font-family:Arial, Helvetica, sans-serif;
+    color: aquamarine;
+    background-color: cornsilk;
+    font-weight: 200;
+
+
+}
+h1 {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 400;
+    color: darkgoldenrod;
+    opacity: 0.25;
+
+}
+p:hover {
+    background-color: chartreuse;
+}
